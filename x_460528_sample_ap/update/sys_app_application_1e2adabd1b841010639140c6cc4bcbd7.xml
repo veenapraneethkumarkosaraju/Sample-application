@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Trail and error</description>
+        <device_type>browser</device_type>
+        <hint>Trail and error</hint>
+        <name/>
+        <order/>
+        <roles>admin,agent_admin,app_service_admin,approval_admin,approver_user,catalog_admin,clone_admin,clone_profile_admin,flow_operator,form_admin,itil_admin,assignment_rule_admin,ui_policy_admin,user_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 04:52:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1e2adabd1b841010639140c6cc4bcbd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sample application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sample application" source="x_460528_sample_ap">3fe552f91b841010639140c6cc4bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample application">3fe552f91b841010639140c6cc4bcbab</sys_scope>
+        <sys_update_name>sys_app_application_1e2adabd1b841010639140c6cc4bcbd7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 04:52:30</sys_updated_on>
+        <title>Sample application</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
